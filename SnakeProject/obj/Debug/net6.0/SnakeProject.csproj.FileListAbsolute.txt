@@ -1,0 +1,30 @@
+C:\Users\Vlad\OneDrive - Державний торговельно-економічний університет\Рабочий стол\ZooWin\SnakeProject\SnakeProject\bin\Debug\net6.0\SnakeProject.exe
+C:\Users\Vlad\OneDrive - Державний торговельно-економічний університет\Рабочий стол\ZooWin\SnakeProject\SnakeProject\bin\Debug\net6.0\SnakeProject.deps.json
+C:\Users\Vlad\OneDrive - Державний торговельно-економічний університет\Рабочий стол\ZooWin\SnakeProject\SnakeProject\bin\Debug\net6.0\SnakeProject.runtimeconfig.json
+C:\Users\Vlad\OneDrive - Державний торговельно-економічний університет\Рабочий стол\ZooWin\SnakeProject\SnakeProject\bin\Debug\net6.0\SnakeProject.dll
+C:\Users\Vlad\OneDrive - Державний торговельно-економічний університет\Рабочий стол\ZooWin\SnakeProject\SnakeProject\bin\Debug\net6.0\SnakeProject.pdb
+C:\Users\Vlad\OneDrive - Державний торговельно-економічний університет\Рабочий стол\ZooWin\SnakeProject\SnakeProject\obj\Debug\net6.0\SnakeProject.csproj.AssemblyReference.cache
+C:\Users\Vlad\OneDrive - Державний торговельно-економічний університет\Рабочий стол\ZooWin\SnakeProject\SnakeProject\obj\Debug\net6.0\SnakeProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vlad\OneDrive - Державний торговельно-економічний університет\Рабочий стол\ZooWin\SnakeProject\SnakeProject\obj\Debug\net6.0\SnakeProject.AssemblyInfoInputs.cache
+C:\Users\Vlad\OneDrive - Державний торговельно-економічний університет\Рабочий стол\ZooWin\SnakeProject\SnakeProject\obj\Debug\net6.0\SnakeProject.AssemblyInfo.cs
+C:\Users\Vlad\OneDrive - Державний торговельно-економічний університет\Рабочий стол\ZooWin\SnakeProject\SnakeProject\obj\Debug\net6.0\SnakeProject.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\OneDrive - Державний торговельно-економічний університет\Рабочий стол\ZooWin\SnakeProject\SnakeProject\obj\Debug\net6.0\SnakeProject.dll
+C:\Users\Vlad\OneDrive - Державний торговельно-економічний університет\Рабочий стол\ZooWin\SnakeProject\SnakeProject\obj\Debug\net6.0\refint\SnakeProject.dll
+C:\Users\Vlad\OneDrive - Державний торговельно-економічний університет\Рабочий стол\ZooWin\SnakeProject\SnakeProject\obj\Debug\net6.0\SnakeProject.pdb
+C:\Users\Vlad\OneDrive - Державний торговельно-економічний університет\Рабочий стол\ZooWin\SnakeProject\SnakeProject\obj\Debug\net6.0\SnakeProject.genruntimeconfig.cache
+C:\Users\Vlad\OneDrive - Державний торговельно-економічний університет\Рабочий стол\ZooWin\SnakeProject\SnakeProject\obj\Debug\net6.0\ref\SnakeProject.dll
+C:\Users\Vlad\source\repos\SnakeProject\SnakeProject\obj\Debug\net6.0\SnakeProject.csproj.AssemblyReference.cache
+C:\Users\Vlad\source\repos\SnakeProject\SnakeProject\obj\Debug\net6.0\SnakeProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vlad\source\repos\SnakeProject\SnakeProject\obj\Debug\net6.0\SnakeProject.AssemblyInfoInputs.cache
+C:\Users\Vlad\source\repos\SnakeProject\SnakeProject\obj\Debug\net6.0\SnakeProject.AssemblyInfo.cs
+C:\Users\Vlad\source\repos\SnakeProject\SnakeProject\obj\Debug\net6.0\SnakeProject.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\SnakeProject\SnakeProject\obj\Debug\net6.0\SnakeProject.dll
+C:\Users\Vlad\source\repos\SnakeProject\SnakeProject\obj\Debug\net6.0\refint\SnakeProject.dll
+C:\Users\Vlad\source\repos\SnakeProject\SnakeProject\obj\Debug\net6.0\SnakeProject.pdb
+C:\Users\Vlad\source\repos\SnakeProject\SnakeProject\bin\Debug\net6.0\SnakeProject.exe
+C:\Users\Vlad\source\repos\SnakeProject\SnakeProject\bin\Debug\net6.0\SnakeProject.deps.json
+C:\Users\Vlad\source\repos\SnakeProject\SnakeProject\bin\Debug\net6.0\SnakeProject.runtimeconfig.json
+C:\Users\Vlad\source\repos\SnakeProject\SnakeProject\bin\Debug\net6.0\SnakeProject.dll
+C:\Users\Vlad\source\repos\SnakeProject\SnakeProject\bin\Debug\net6.0\SnakeProject.pdb
+C:\Users\Vlad\source\repos\SnakeProject\SnakeProject\obj\Debug\net6.0\SnakeProject.genruntimeconfig.cache
+C:\Users\Vlad\source\repos\SnakeProject\SnakeProject\obj\Debug\net6.0\ref\SnakeProject.dll
